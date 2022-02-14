@@ -8,7 +8,7 @@ Tableau de bord des bonnes pratiques techniques pour les Startups d'État.
 
 | [Exemple](https://dashlord.incubateur.net) | [Dépôt](https://github.com/socialgouv/dashlord) | [Backlog](https://github.com/orgs/SocialGouv/projects/13) |
 
-### Secretariat
+### Secrétariat
 Le secrétariat automatisé de la communauté.
 
 | [Lien](https://secretariat.incubateur.net) | [Dépôt](https://github.com/betagouv/secretariat) |
