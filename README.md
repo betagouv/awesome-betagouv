@@ -4,7 +4,7 @@ Référencer les outils et ressources de la communauté beta.gouv.fr ouverts à 
 ## Outils transverses
 
 ### Dashlord
-Tableau de bord des bonnes pratiques techniques pour les Startups d'Etat.
+Tableau de bord des bonnes pratiques techniques pour les Startups d'État.
 
 | [Exemple](https://dashlord.incubateur.net) | [Dépôt](https://github.com/socialgouv/dashlord) | [Backlog](https://github.com/orgs/SocialGouv/projects/13) |
 
