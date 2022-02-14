@@ -13,7 +13,7 @@ Le secrétariat automatisé de la communauté.
 
 | [Lien](https://secretariat.incubateur.net) | [Dépôt](https://github.com/betagouv/secretariat) |
 
-## Design System de l'Etat (dsfr)
+## Design System de l'État (dsfr)
 
 ### Un site de démo du DSFR
 | [Lien](https://template.incubateur.net) | [Dépôt](https://github.com/betagouv/template-design-system-de-l-etat/blob/main/README.md) |
