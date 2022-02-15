@@ -23,3 +23,10 @@ Le secrétariat automatisé de la communauté.
 
 ### django-dsfr
 | [Dépôt](https://github.com/entrepreneur-interet-general/django-dsfr) |
+
+## GitOps
+
+### Serenity Workflows
+Des workflows githubs reutilisables et flexibles pour maximiser votre expérience de dévelopement et déploiement.  
+| [Dépôt](https://github.com/romain-cambonie/serenity-workflow) | [Les Exemples](TODO) |
+Support mattermost incubateur: @romain-cambonie
