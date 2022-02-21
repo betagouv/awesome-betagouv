@@ -16,7 +16,7 @@ Le secrétariat automatisé de la communauté.
 ### Tell Me
 Outil de génération et de gestion de sondages & questionnaires en ligne.
 
-| [Lien](https://tell-me-staging.osc-fr1.scalingo.io/signup) | [Dépôt](https://github.com/betagouv/secretariat) |
+| [Lien](https://tell-me-staging.osc-fr1.scalingo.io/signup) | [Dépôt](https://github.com/betagouv/tell-me) |
 
 __Note : Lorsque tu t'inscris sur la [demo](https://tell-me-staging.osc-fr1.scalingo.io/signup) de Tell Me, envoie un message à @ivangabriele sur Matomo pour que ton compte utilisateur·rice soit activé 😉.__
 
