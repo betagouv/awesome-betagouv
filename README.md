@@ -18,7 +18,7 @@ Outil de génération et de gestion de sondages & questionnaires en ligne.
 
 | [Lien](https://tell-me-staging.osc-fr1.scalingo.io/signup) | [Dépôt](https://github.com/betagouv/tell-me) |
 
-__Note : Lorsque tu t'inscris sur la [demo](https://tell-me-staging.osc-fr1.scalingo.io/signup) de Tell Me, envoie un message à @ivangabriele sur Matomo pour que ton compte utilisateur·rice soit activé 😉.__
+__Note : Lorsque tu t'inscris sur la [demo](https://tell-me-staging.osc-fr1.scalingo.io/signup) de Tell Me, envoie un message à [Ivan](https://mattermost.incubateur.net/betagouv/messages/@ivan.gabriele) sur Matomo pour que ton compte utilisateur·rice soit activé 😉.__
 
 ## Design System de l'État (dsfr)
 
