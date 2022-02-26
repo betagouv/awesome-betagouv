@@ -14,7 +14,7 @@ Le secrétariat automatisé de la communauté.
 | [Lien](https://secretariat.incubateur.net) | [Dépôt](https://github.com/betagouv/secretariat) |
 
 ### Tell Me
-Outil de génération et de gestion de sondages & questionnaires en ligne.
+Outil open-source de génération et de gestion de sondages & questionnaires en ligne.
 
 | [Lien](https://tell-me-staging.osc-fr1.scalingo.io/signup) | [Dépôt](https://github.com/betagouv/tell-me) |
 
