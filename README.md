@@ -23,3 +23,11 @@ Le secrétariat automatisé de la communauté.
 
 ### django-dsfr
 | [Dépôt](https://github.com/entrepreneur-interet-general/django-dsfr) |
+
+## Librairies
+
+### publi.codes
+
+Publicodes est un langage déclaratif pour modéliser des domaines métiers complexes en les décomposant en règles élémentaires simples.
+
+https://publi.codes
