@@ -20,6 +20,14 @@ Outil open-source de génération et de gestion de sondages & questionnaires en 
 
 __Note : Lorsque tu t'inscris sur la [demo](https://tell-me-staging.osc-fr1.scalingo.io/signup) de Tell Me, envoie un message à [Ivan Gabriele](https://mattermost.incubateur.net/betagouv/messages/@ivan.gabriele) sur Matomo pour que ton compte utilisateur·rice soit activé 😉.__
 
+### Metabase
+
+Carte des départements français en format GeoJSON avec les DOM-TOM déplacés / zoomés pour se situer proche de la métropole.  
+Cette vue est erronnée mais permet d'afficher des valeurs pour tous les territoires sur le même graphique.
+
+| [Gist](https://gist.github.com/paduc/026683e4fc257679d7e7dbb60cb4b1eb#file-departements-avec-outre-mer-geojson) |
+
+
 ## Design System de l'État (dsfr)
 
 ### Un site de démo du DSFR
