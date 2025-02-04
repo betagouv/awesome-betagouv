@@ -16,13 +16,17 @@ Le secrétariat de la communauté.
 ## Design System de l'État (DSFR)
 
 ### react-dsfr
-| [Dépot](https://github.com/dataesr/react-dsfr) |
+| [Dépot](https://github.com/codegouvfr/react-dsfr) | Peut être utilisé hors react (vue, angular...) pour le typage du DSFR
 
 ### django-dsfr
 | [Dépôt](https://github.com/entrepreneur-interet-general/django-dsfr) |
 
 ### dsfr-view-components (Rails)
 | [Dépôt] (https://github.com/betagouv/dsfr-view-components) |
+
+### Keycloak DSFR
+
+| [Dépôt](https://github.com/codegouvfr/keycloak-theme-dsfr) |
 
 ## Templates
 
@@ -34,13 +38,13 @@ De nombreux templates sont dispos pour démarrer rapidement
 
 ### pdf-generator
 
-Un service de generation de PDF à base de puppeeter
+Un service de generation de PDF à base de puppeteer
 
 👉 https://github.com/gip-inclusion/pdf-generator
 
 ### antivirus
 
-Un service de scan antivirus à vase de Clamav
+Un service de scan antivirus à base de ClamAV
 
 👉 https://github.com/betagouv/signalconso-antivirus
 
