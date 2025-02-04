@@ -1,37 +1,45 @@
 # :sparkles: Awesome beta.gouv.fr
 Référencer les outils et ressources de la communauté beta.gouv.fr ouverts à la contribution :sparkles:
 
+## Outils pour les produits
+
+### pdf-generator
+
+Un service de generation de PDF à base de puppeeter
+
+👉 https://github.com/gip-inclusion/pdf-generator
+
+### antivirus
+
+Un service de scan antivirus à vase de Clamav
+
+👉 https://github.com/betagouv/signalconso-antivirus
+
+### publi.codes
+
+Publicodes est un langage déclaratif pour modéliser des domaines métiers complexes en les décomposant en règles élémentaires simples.
+
+👉 https://publi.codes
+
+### Templates
+
+De nombreux templates sont dispos pour démarrer rapidement
+
+👉 https://github.com/betagouv/?q=template&type=all&language=&sort=
+
 ## Outils transverses
 
 ### Dashlord
 Tableau de bord des bonnes pratiques techniques pour les Startups d'État.
 
-| [Exemple](https://dashlord.incubateur.net) | [Dépôt](https://github.com/socialgouv/dashlord) | [Backlog](https://github.com/orgs/SocialGouv/projects/13) |
+| [Exemple](https://dashlord.incubateur.net) | [Dépôt](https://github.com/socialgouv/dashlord)
 
-### Secrétariat
-Le secrétariat automatisé de la communauté.
+### Espace-membre
+Le secrétariat de la communauté.
 
-| [Lien](https://secretariat.incubateur.net) | [Dépôt](https://github.com/betagouv/secretariat) |
-
-### Tell Me
-Outil open-source de génération et de gestion de sondages & questionnaires en ligne.
-
-| [Lien](https://tell-me-staging.osc-fr1.scalingo.io/signup) | [Dépôt](https://github.com/betagouv/tell-me) |
-
-__Note : Lorsque tu t'inscris sur la [demo](https://tell-me-staging.osc-fr1.scalingo.io/signup) de Tell Me, envoie un message à [Ivan Gabriele](https://mattermost.incubateur.net/betagouv/messages/@ivan.gabriele) sur Matomo pour que ton compte utilisateur·rice soit activé 😉.__
-
-### Metabase
-
-Carte des départements français en format GeoJSON avec les DOM-TOM déplacés / zoomés pour se situer proche de la métropole.  
-Cette vue est erronnée mais permet d'afficher des valeurs pour tous les territoires sur le même graphique.
-
-| [Gist](https://gist.github.com/paduc/026683e4fc257679d7e7dbb60cb4b1eb#file-departements-avec-outre-mer-geojson) |
-
+| [Lien](https://secretariat.incubateur.net) | [Dépôt](https://github.com/betagouv/espace-membre-next) |
 
 ## Design System de l'État (dsfr)
-
-### Un site de démo du DSFR
-| [Lien](https://template.incubateur.net) | [Dépôt](https://github.com/betagouv/template-design-system-de-l-etat/blob/main/README.md) |
 
 ### react-dsfr
 | [Dépot](https://github.com/dataesr/react-dsfr) |
@@ -39,10 +47,3 @@ Cette vue est erronnée mais permet d'afficher des valeurs pour tous les territo
 ### django-dsfr
 | [Dépôt](https://github.com/entrepreneur-interet-general/django-dsfr) |
 
-## Librairies
-
-### publi.codes
-
-Publicodes est un langage déclaratif pour modéliser des domaines métiers complexes en les décomposant en règles élémentaires simples.
-
-https://publi.codes
