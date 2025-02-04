@@ -39,11 +39,14 @@ Le secrétariat de la communauté.
 
 | [Lien](https://secretariat.incubateur.net) | [Dépôt](https://github.com/betagouv/espace-membre-next) |
 
-## Design System de l'État (dsfr)
+## Design System de l'État (DSFR)
 
 ### react-dsfr
 | [Dépot](https://github.com/dataesr/react-dsfr) |
 
 ### django-dsfr
 | [Dépôt](https://github.com/entrepreneur-interet-general/django-dsfr) |
+
+### dsfr-view-components (Rails)
+| [Dépôt] (https://github.com/betagouv/dsfr-view-components) |
 
