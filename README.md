@@ -38,7 +38,7 @@ De nombreux templates sont dispos pour démarrer rapidement
 
 ### sites-faciles
 
-Publiez un site internet ou intranet conforme au DSFR, sans coder ni peser sur votre budget.
+Publiez un site internet conforme au DSFR, sans coder ni peser sur votre budget.
 
 👉 https://github.com/numerique-gouv/sites-faciles
 
