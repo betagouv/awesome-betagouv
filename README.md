@@ -48,6 +48,12 @@ De nombreux templates sont dispos pour démarrer rapidement
 
 ## Outils pour les produits
 
+### sites-faciles
+
+Publiez un site internet conforme au DSFR, sans coder ni peser sur votre budget.
+
+👉 https://github.com/numerique-gouv/sites-faciles
+
 ### pdf-generator
 
 Un service de generation de PDF à base de puppeteer
