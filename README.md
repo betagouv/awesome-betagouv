@@ -66,3 +66,11 @@ Publicodes est un langage déclaratif pour modéliser des domaines métiers comp
 
 👉 https://publi.codes
 
+## Divers
+
+### BetaMap
+
+Une cartographie des produit numériques, des APIs et de la communauté beta.gouv.fr à partir de données ouvertes.
+
+👉 [Démo](https://betagouv.github.io/betamap) | [Code source](https://github.com/betagouv/betamap)
+
