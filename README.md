@@ -72,6 +72,12 @@ Publicodes est un langage déclaratif pour modéliser des domaines métiers comp
 
 👉 https://publi.codes
 
+### geoip-api
+
+Retourne le code pays [ISO-3166-alpha2](https://fr.wikipedia.org/wiki/ISO_3166-1) d'une adresse IP.
+
+👉 https://github.com/jdesboeufs/geoip-api
+
 ## Divers
 
 ### BetaMap
