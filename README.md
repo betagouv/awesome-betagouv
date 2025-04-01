@@ -78,6 +78,11 @@ Retourne le code pays [ISO-3166-alpha2](https://fr.wikipedia.org/wiki/ISO_3166-1
 
 👉 https://github.com/jdesboeufs/geoip-api
 
+## Outils pour la data
+
+ - [Pypi: datagouv/fr-format](/https://github.com/datagouv/fr-format) : a collection of validators to check data against typical French formats
+ - [schema.data.gouv.fr](https://schema.data.gouv.fr) : collections de schémas de données publiques et outillage de validation
+
 ## Divers
 
 ### BetaMap
