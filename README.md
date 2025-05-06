@@ -85,6 +85,12 @@ Retourne le code pays [ISO-3166-alpha2](https://fr.wikipedia.org/wiki/ISO_3166-1
 
 👉 https://github.com/jdesboeufs/geoip-api
 
+### Stack logging
+
+TimescaleDB + Vector + Metabase for logs management on scalingo
+
+👉 https://github.com/MTES-MCT/qualicharge-logs
+
 ## Divers
 
 ### BetaMap
