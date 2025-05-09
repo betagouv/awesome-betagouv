@@ -15,7 +15,14 @@ Livre blanc "Propositions pour réaliser un produit numérique"
 
 👉 https://sillon.incubateur.net
 
+### Standards
+
+Tous les standards de qualité des produits numériques beta.gouv.fr
+
+👉 https://github.com/betagouv/standards
+
 ### Dashlord
+
 Tableau de bord des bonnes pratiques techniques pour les Startups d'État.
 
 | [Exemple](https://dashlord.incubateur.net) | [Dépôt](https://github.com/socialgouv/dashlord)
@@ -77,6 +84,12 @@ Publicodes est un langage déclaratif pour modéliser des domaines métiers comp
 Retourne le code pays [ISO-3166-alpha2](https://fr.wikipedia.org/wiki/ISO_3166-1) d'une adresse IP.
 
 👉 https://github.com/jdesboeufs/geoip-api
+
+### Stack logging
+
+TimescaleDB + Vector + Metabase for logs management on scalingo
+
+👉 https://github.com/MTES-MCT/qualicharge-logs
 
 ## Outils pour la data
 
