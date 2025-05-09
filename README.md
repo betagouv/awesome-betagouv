@@ -91,6 +91,11 @@ TimescaleDB + Vector + Metabase for logs management on scalingo
 
 👉 https://github.com/MTES-MCT/qualicharge-logs
 
+## Outils pour la data
+
+ - [Pypi: datagouv/fr-format](/https://github.com/datagouv/fr-format) : a collection of validators to check data against typical French formats
+ - [schema.data.gouv.fr](https://schema.data.gouv.fr) : collections de schémas de données publiques et outillage de validation
+
 ## Divers
 
 ### BetaMap
