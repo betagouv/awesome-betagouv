@@ -99,3 +99,9 @@ Une cartographie des produit numériques, des APIs et de la communauté beta.gou
 
 👉 [Démo](https://betagouv.github.io/betamap) | [Code source](https://github.com/betagouv/betamap)
 
+### Caldav2ICS
+
+Convertisseur CalDAV → ICS sécurisé et sans stockage. Utilisable pour convertir les calendrier de la Suite Numérique en ICS exploitable.
+
+👉 https://caldav2ics.deno.dev | [Code source](https://github.com/lsagetlethias/caldav2ics)
+
