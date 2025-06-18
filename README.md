@@ -105,3 +105,9 @@ Convertisseur CalDAV → ICS sécurisé et sans stockage. Utilisable pour conver
 
 👉 https://caldav2ics.deno.dev | [Code source](https://github.com/lsagetlethias/caldav2ics)
 
+### streaming-file-encryption
+
+Streaming encryption/decryption for files in Node.js made simple and secure.
+
+👉 https://github.com/SocialGouv/streaming-file-encryption
+
