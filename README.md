@@ -91,6 +91,12 @@ TimescaleDB + Vector + Metabase for logs management on scalingo
 
 👉 https://github.com/MTES-MCT/qualicharge-logs
 
+### odf.js 
+
+A toolbox to read and generate odf (.odt, .ods files) 
+
+👉 https://github.com/odfjs/odfjs
+
 ## Divers
 
 ### BetaMap
