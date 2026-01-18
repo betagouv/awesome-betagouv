@@ -111,6 +111,11 @@ TimescaleDB + Vector + Metabase for logs management on scalingo
 
 👉 https://github.com/MTES-MCT/qualicharge-logs
 
+### odf.js 
+
+A toolbox to read and generate odf (.odt, .ods files) 
+
+👉 https://github.com/odfjs/odfjs
 ## Outils pour la data
 
  - [datagouv/fr-format](https://github.com/datagouv/fr-format) : a collection of validators to check data against typical French formats
@@ -130,8 +135,3 @@ Convertisseur CalDAV → ICS sécurisé et sans stockage. Utilisable pour conver
 
 👉 https://caldav2ics.deno.dev | [Code source](https://github.com/lsagetlethias/caldav2ics)
 
-### streaming-file-encryption
-
-Streaming encryption/decryption for files in Node.js made simple and secure.
-
-👉 https://github.com/SocialGouv/streaming-file-encryption
