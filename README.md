@@ -25,9 +25,10 @@ Tous les standards de qualité des produits numériques beta.gouv.fr
 
 Tableau de bord des bonnes pratiques techniques pour les Startups d'État.
 
-| [Exemple](https://dashlord.incubateur.net) | [Dépôt](https://github.com/socialgouv/dashlord)
+| [Exemple](https://dashlord.incubateur.net) | [Dépôt](https://github.com/socialgouv/dashlord) |
 
 ### Espace-membre
+
 Le secrétariat de la communauté.
 
 | [Lien](https://secretariat.incubateur.net) | [Dépôt](https://github.com/betagouv/espace-membre-next) |
@@ -35,13 +36,20 @@ Le secrétariat de la communauté.
 ## Design System de l'État (DSFR)
 
 ### react-dsfr
-| [Dépot](https://github.com/codegouvfr/react-dsfr) | Peut être utilisé hors react (vue, angular...) pour le typage du DSFR
+
+| [Dépôt](https://github.com/codegouvfr/react-dsfr) | Peut être utilisé hors react (vue, angular...) pour le typage du DSFR
+
+### vue-dsfr
+
+| [Dépôt](https://github.com/dnum-mi/vue-dsfr) |
 
 ### django-dsfr
+
 | [Dépôt](https://github.com/entrepreneur-interet-general/django-dsfr) |
 
 ### dsfr-view-components (Rails)
-| [Dépôt] (https://github.com/betagouv/dsfr-view-components) |
+
+| [Dépôt](https://github.com/betagouv/dsfr-view-components) |
 
 ### Keycloak DSFR
 
@@ -103,6 +111,11 @@ TimescaleDB + Vector + Metabase for logs management on scalingo
 
 👉 https://github.com/MTES-MCT/qualicharge-logs
 
+## Outils pour la data
+
+ - [datagouv/fr-format](https://github.com/datagouv/fr-format) : a collection of validators to check data against typical French formats
+ - [schema.data.gouv.fr](https://schema.data.gouv.fr) : collections de schémas de données publiques et outillage de validation
+
 ## Divers
 
 ### BetaMap
@@ -117,3 +130,8 @@ Convertisseur CalDAV → ICS sécurisé et sans stockage. Utilisable pour conver
 
 👉 https://caldav2ics.deno.dev | [Code source](https://github.com/lsagetlethias/caldav2ics)
 
+### streaming-file-encryption
+
+Streaming encryption/decryption for files in Node.js made simple and secure.
+
+👉 https://github.com/SocialGouv/streaming-file-encryption
