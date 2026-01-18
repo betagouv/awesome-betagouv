@@ -93,6 +93,18 @@ Retourne le code pays [ISO-3166-alpha2](https://fr.wikipedia.org/wiki/ISO_3166-1
 
 👉 https://github.com/jdesboeufs/geoip-api
 
+### ds_proxy
+
+Proxy HTTP de chiffrement en streaming pour stocker des fichiers chiffrés S3
+
+👉 https://github.com/demarches-simplifiees/ds_proxy
+
+### streaming-file-encryption
+
+Streaming encryption/decryption for files in Node.js made simple and secure.
+
+👉 https://github.com/SocialGouv/streaming-file-encryption
+
 ### Stack logging
 
 TimescaleDB + Vector + Metabase for logs management on scalingo
