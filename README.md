@@ -55,7 +55,7 @@ Un outil de monitoring automatisé qui suit et affiche les indicateurs de santé
 
 Plateforme centralisée pour gérer les membres, les produits et les ressources de la communauté beta.gouv.fr.
 
-🔗 [Accéder à l'outil](https://secretariat.incubateur.net) | [Dépôt GitHub](https://github.com/betagouv/espace-membre-next)
+🔗 [Accéder à l'outil](https://espace-membre.incubateur.net) | [Dépôt GitHub](https://github.com/betagouv/espace-membre-next)
 
 ---
 
