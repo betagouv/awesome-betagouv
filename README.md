@@ -105,7 +105,7 @@ Streaming encryption/decryption for files in Node.js made simple and secure.
 
 👉 https://github.com/SocialGouv/streaming-file-encryption
 
-### oauthproxy + scalingo
+### oauth2-proxy + scalingo
 
 [oauth2-proxy](https://oauth2-proxy.github.io/oauth2-proxy/) + ProConnect + scalingo integration demo
 
