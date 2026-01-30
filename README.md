@@ -57,6 +57,14 @@ Plateforme centralisée pour gérer les membres, les produits et les ressources 
 
 🔗 [Accéder à l'outil](https://espace-membre.incubateur.net) | [Dépôt GitHub](https://github.com/betagouv/espace-membre-next)
 
+### Peertube
+
+**Les vidéos de la communauté**
+
+Publiez des vidéos et consultez des précédents ateliers, formations...
+
+🔗 [Accéder à l'outil](https://tube.numerique.gouv.fr/)
+
 ---
 
 ## Design System de l'État (DSFR)
