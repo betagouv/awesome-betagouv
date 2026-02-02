@@ -237,6 +237,14 @@ Collection de schémas pour les données publiques françaises avec outillage de
 
 Des outils pour explorer et contribuer à l'écosystème beta.gouv.fr.
 
+### Guide "Simulateurs et *Rules as Code*"
+
+**Documentation méthodologique pour la modélisation et la simulation des aides publiques**
+
+Guide pour les équipes qui construisent des simulateurs d'éligibilité aux aides publiques et autres outils basés sur la réglementation.
+
+🔗 [Site de documentation](https://docs.aides.beta.gouv.fr/) | [Code source](https://github.com/betagouv/aides-simplifiees-docs)
+
 ### BetaMap
 
 **Cartographie de l'écosystème beta.gouv.fr**
