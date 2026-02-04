@@ -137,6 +137,12 @@ Plateforme de création de sites internet conformes au Design System de l'État,
 
 🔗 [Dépôt GitHub](https://github.com/numerique-gouv/sites-faciles)
 
+### carte facile
+
+Des cartes clé en main, rapidement intégrables à votre site
+
+🔗 [Site officiel](https://fab-geocommuns.github.io/carte-facile-site/)
+
 ### pdf-generator
 
 **Service de génération de PDF**
