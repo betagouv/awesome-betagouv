@@ -129,7 +129,7 @@ De nombreux templates sont disponibles pour différentes technologies et cas d'u
 
 Des outils techniques pour construire, sécuriser et déployer vos services numériques.
 
-### sites-faciles
+### sites conformes
 
 **Créez des sites conformes au DSFR sans coder**
 
