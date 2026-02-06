@@ -89,6 +89,13 @@ Implémentation native du DSFR pour les applications Vue.js, offrant une intégr
 
 🔗 [Dépôt GitHub](https://github.com/dnum-mi/vue-dsfr)
 
+### @edugouvfr/ngx-dsfr
+
+**Portage Angular du Système de Design de l'État (DSFR)**
+
+🔗 [Storybook](https://foad.phm.education.gouv.fr/edugouvfr/ngx-dsfr/) [Code source]()
+
+
 ### django-dsfr
 
 **Intégration Django pour le DSFR**
