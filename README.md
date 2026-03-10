@@ -226,7 +226,15 @@ Boîte à outils pour lire et générer des fichiers ODF (.odt, .ods), permettan
 
 ## Outils data
 
-Des outils pour valider, standardiser et publier des données publiques.
+Des outils pour valider, standardiser, publier ou visualiser des données.
+
+### Multi-schema-postgres-etl
+
+ETL permet de réunir et d'anonymiser plusieurs bases de données postgres dans une même base de données sous différents schemas.
+
+Cette base de données peut ensuite être utilisée par Metabase ou un autre outil de BI.
+
+🔗 [Dépôt GitHub](https://github.com/betagouv/multi-schema-postgres-etl)
 
 ### fr-format
 
