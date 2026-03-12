@@ -206,13 +206,17 @@ Démonstration d'intégration de [oauth2-proxy](https://oauth2-proxy.github.io/o
 
 🔗 [Dépôt GitHub](https://github.com/betagouv/oauth2-deploy-demo)
 
-### Stack logging
-
-**Solution de gestion des logs**
+### Logging TimeScaleDB + Vector + Metabase sur scalingo
 
 Stack complète de gestion des logs avec TimescaleDB + Vector + Metabase, déployable sur Scalingo pour un monitoring efficace.
 
 🔗 [Dépôt GitHub](https://github.com/MTES-MCT/qualicharge-logs)
+
+###  Logging Loki + Grafana + S3 sur scalingo
+
+One click deploy for Grafana and loki on Scalingo 
+
+🔗 [Dépôt GitHub](https://github.com/betagouv/document-ia-grafana-loki)
 
 ### odf.js
 
