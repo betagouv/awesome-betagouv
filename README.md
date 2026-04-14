@@ -206,6 +206,12 @@ Démonstration d'intégration de [oauth2-proxy](https://oauth2-proxy.github.io/o
 
 🔗 [Dépôt GitHub](https://github.com/betagouv/oauth2-deploy-demo)
 
+### fine-grained-proxy
+
+Stateless HTTP proxy that adds fine-grained token scoping to any API. Zero storage — encrypted URL, double key, body filters. 
+
+🔗 [Dépôt GitHub](https://github.com/incubateur-ademe/fine-grained-proxy)
+
 ### Logging TimeScaleDB + Vector + Metabase sur scalingo
 
 Stack complète de gestion des logs avec TimescaleDB + Vector + Metabase, déployable sur Scalingo pour un monitoring efficace.
