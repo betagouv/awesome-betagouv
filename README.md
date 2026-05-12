@@ -212,6 +212,12 @@ Stateless HTTP proxy that adds fine-grained token scoping to any API. Zero stora
 
 🔗 [Dépôt GitHub](https://github.com/incubateur-ademe/fine-grained-proxy)
 
+### 2ddoc-parser
+
+Bibliothèque Python pour décoder et vérifier les 2D-DOC de l'ANTS (Agence Nationale des Titres Sécurisés).
+
+🔗 [Dépôt GitHub](https://github.com/betagouv/2ddoc-parser)
+
 ### Logging TimeScaleDB + Vector + Metabase sur scalingo
 
 Stack complète de gestion des logs avec TimescaleDB + Vector + Metabase, déployable sur Scalingo pour un monitoring efficace.
