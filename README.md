@@ -230,6 +230,12 @@ One click deploy for Grafana and loki on Scalingo
 
 🔗 [Dépôt GitHub](https://github.com/betagouv/document-ia-grafana-loki)
 
+### Autoscaling custom sur scalingo
+
+Microservice pour gèrer l'autoscaling horizontal de workers scalingo
+
+🔗 [Dépôt GitHub](https://github.com/betagouv/document-ia/tree/develop/document-ia-auto-scaler)
+
 ### odf.js
 
 **Manipulation de documents ODF**
