@@ -236,6 +236,12 @@ Microservice pour gèrer l'autoscaling horizontal de workers scalingo
 
 🔗 [Dépôt GitHub](https://github.com/betagouv/document-ia/tree/develop/document-ia-auto-scaler)
 
+### Nginx mod_security sur scalingo (WAF)
+
+Exemple d'ajout d'un Web Application Firewall sur Scalingo avec nginx/mod_security et des règles custom
+
+🔗 [Dépôt GitHub](https://github.com/betagouv/depenses-eclairees-waf)
+
 ### odf.js
 
 **Manipulation de documents ODF**
